@@ -1,6 +1,6 @@
 package de.misasoft.amenity_reservation_system.repos;
 
-import de.misasoft.amenity_reservation_system.domain.User;
+import de.misasoft.amenity_reservation_system.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
